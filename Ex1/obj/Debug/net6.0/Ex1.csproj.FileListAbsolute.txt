@@ -1,0 +1,15 @@
+/home/polina/Документы/My education/Seminar 4.1/Ex1/bin/Debug/net6.0/Ex1
+/home/polina/Документы/My education/Seminar 4.1/Ex1/bin/Debug/net6.0/Ex1.deps.json
+/home/polina/Документы/My education/Seminar 4.1/Ex1/bin/Debug/net6.0/Ex1.runtimeconfig.json
+/home/polina/Документы/My education/Seminar 4.1/Ex1/bin/Debug/net6.0/Ex1.dll
+/home/polina/Документы/My education/Seminar 4.1/Ex1/bin/Debug/net6.0/ref/Ex1.dll
+/home/polina/Документы/My education/Seminar 4.1/Ex1/bin/Debug/net6.0/Ex1.pdb
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.csproj.AssemblyReference.cache
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.AssemblyInfoInputs.cache
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.AssemblyInfo.cs
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.csproj.CoreCompileInputs.cache
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.dll
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/ref/Ex1.dll
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.pdb
+/home/polina/Документы/My education/Seminar 4.1/Ex1/obj/Debug/net6.0/Ex1.genruntimeconfig.cache
